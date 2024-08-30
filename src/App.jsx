@@ -1,5 +1,5 @@
 
-function Faizan() {
+function App() {
 
 
   return (
@@ -9,4 +9,4 @@ function Faizan() {
   )
 }
 
-export default Faizan
+export default App
