@@ -1,10 +1,12 @@
-import React from 'react'
 
 function App() {
+
+
   return (
-    <div>
-      Khan
-    </div>
+    <>
+      <h1>Faizan code khan</h1>
+      <h2>khan</h2>
+    </>
   )
 }
 
