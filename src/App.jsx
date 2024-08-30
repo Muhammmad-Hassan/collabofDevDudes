@@ -1,3 +1,4 @@
+import Footer from "./components/Footer"
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
       <h3>Hacakthon</h3>
       <h1>Faizan code</h1>
       <p>hahahhahahahhhahahhahahahhahahahhahahahhahahahhahahahhahahahhahahahhahahahhahahahhaa</p>
+      <Footer/>
     </>
   )
 }
